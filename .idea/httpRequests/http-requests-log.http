@@ -1,0 +1,4 @@
+GET http://localhost:5432/api/user/{{login}}
+
+###
+
